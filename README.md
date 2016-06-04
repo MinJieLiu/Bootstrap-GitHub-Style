@@ -1,4 +1,5 @@
 Bootstrap-GitHub-Style
 ======================
 
-GitHub Style是基于Bootstrap的GitHub主题样式
+一款 github 风格的 Bootstrap 3 主题
+Demo: [Bootstrap-GitHub-Style](http://minjieliu.github.io/Bootstrap-GitHub-Style/example/)
